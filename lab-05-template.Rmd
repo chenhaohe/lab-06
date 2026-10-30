@@ -22,7 +22,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
 _Write your comments about image 1 below_
-
+In the same standard,the width and length of the bars do not clearly show the differences in the number of speakers between languages.Also,there can't be 1026 billion people speak chinese as it clearly overweight the global population.
 
 
 
@@ -33,7 +33,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+The chart does not clearly explain whether the colour intensity or the size of each sector represents population density or land area.
 
 
 
@@ -44,7 +44,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+It doesn't have a clear title and many country patterns overlapped togther which is difficult to identify them.
 
 
 
@@ -55,7 +55,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+Some labels overlap in this graph and the y-axis doesn't show a clear information.
 
 
 # Data Visualization for Halloween 
